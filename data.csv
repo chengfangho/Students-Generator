@@ -1,0 +1,101 @@
+firstName,lastName,studentId,email,accessGroups
+Emely,Mckay,19278815,emely.mckay@gmail.com,['HISTORY']
+Tate,Morell,91329842,tate.morell@gmail.com,[]
+Aleksandra,Monson,18637000,aleksandra.monson@gmail.com,['MATH']
+Arial,Mcsweeney,64068128,arial.mcsweeney@gmail.com,"['HISTORY', 'GENERAL', 'MATH']"
+Lochlan,Darling,99650070,lochlan.darling@gmail.com,"['GYM', 'MATH', 'HISTORY']"
+Ilaria,Morman,42251335,ilaria.morman@gmail.com,['GENERAL']
+Lyllian,Staab,83716080,lyllian.staab@gmail.com,['HISTORY']
+Mischa,Lafrance,71659671,mischa.lafrance@gmail.com,"['MATH', 'GENERAL']"
+Ronald,Rivers,77831829,ronald.rivers@gmail.com,['GENERAL']
+Ezekial,Danley,29112771,ezekial.danley@gmail.com,"['HISTORY', 'SCIENCE', 'MATH']"
+Karmen,Zarate,39097344,karmen.zarate@gmail.com,"['GYM', 'HISTORY']"
+Gwendolen,Julius,99926302,gwendolen.julius@gmail.com,"['GYM', 'MATH', 'SCIENCE']"
+Mattox,Ryals,88348115,mattox.ryals@gmail.com,"['GYM', 'MATH', 'SCIENCE']"
+Ameer,Bernstein,98318169,ameer.bernstein@gmail.com,"['GYM', 'SCIENCE', 'HISTORY', 'GENERAL']"
+Aayan,Waterman,36989264,aayan.waterman@gmail.com,"['SCIENCE', 'GENERAL', 'GYM', 'HISTORY', 'MATH']"
+Haider,Leiva,12428801,haider.leiva@gmail.com,['SCIENCE']
+Nadiya,Orona,76170913,nadiya.orona@gmail.com,"['GYM', 'GENERAL']"
+Teodoro,Peer,27109290,teodoro.peer@gmail.com,[]
+Aislinn,Brewster,69983080,aislinn.brewster@gmail.com,"['HISTORY', 'GYM', 'GENERAL', 'SCIENCE', 'MATH']"
+Carrie,Mancini,31063046,carrie.mancini@gmail.com,['GYM']
+Nori,Vest,92470289,nori.vest@gmail.com,"['GYM', 'GENERAL', 'SCIENCE', 'HISTORY', 'MATH']"
+Brynna,Pinson,38879252,brynna.pinson@gmail.com,"['MATH', 'HISTORY']"
+Andria,Benning,70075254,andria.benning@gmail.com,"['GENERAL', 'HISTORY']"
+Aubrei,Book,60181803,aubrei.book@gmail.com,"['SCIENCE', 'HISTORY', 'GENERAL', 'GYM', 'MATH']"
+Fabio,Reavis,13789389,fabio.reavis@gmail.com,"['SCIENCE', 'GYM', 'GENERAL', 'HISTORY']"
+Ahron,Muncy,40483066,ahron.muncy@gmail.com,"['GENERAL', 'GYM', 'SCIENCE', 'HISTORY', 'MATH']"
+Zakari,Fortenberry,43146222,zakari.fortenberry@gmail.com,"['HISTORY', 'GYM']"
+Alexie,Pompa,85480941,alexie.pompa@gmail.com,"['GYM', 'GENERAL', 'HISTORY']"
+Hasini,Hockett,17077517,hasini.hockett@gmail.com,"['SCIENCE', 'MATH', 'GENERAL']"
+Aleida,Mcdougall,83670499,aleida.mcdougall@gmail.com,"['HISTORY', 'SCIENCE', 'GYM']"
+Izzy,Earls,66218218,izzy.earls@gmail.com,"['GENERAL', 'SCIENCE', 'HISTORY', 'MATH']"
+Talon,Rossi,27702240,talon.rossi@gmail.com,"['SCIENCE', 'HISTORY', 'MATH']"
+Tea,Boldt,63924418,tea.boldt@gmail.com,[]
+Jaela,Taveras,10636764,jaela.taveras@gmail.com,"['SCIENCE', 'MATH', 'GYM']"
+Tyleah,Mcneese,91251794,tyleah.mcneese@gmail.com,"['SCIENCE', 'GENERAL', 'HISTORY', 'GYM']"
+Nickolas,Hankins,96151196,nickolas.hankins@gmail.com,"['GYM', 'GENERAL', 'SCIENCE']"
+May,Daily,46827972,may.daily@gmail.com,[]
+Saleen,Ballenger,78621833,saleen.ballenger@gmail.com,[]
+Charolette,Lemmons,85298167,charolette.lemmons@gmail.com,[]
+Kynslie,Averill,47157479,kynslie.averill@gmail.com,"['GENERAL', 'MATH']"
+Ariane,Garvey,35949284,ariane.garvey@gmail.com,"['HISTORY', 'MATH', 'GYM', 'GENERAL']"
+Rayansh,Bankhead,35157116,rayansh.bankhead@gmail.com,"['HISTORY', 'SCIENCE']"
+Bransen,Kellner,10371198,bransen.kellner@gmail.com,"['HISTORY', 'GYM', 'MATH']"
+Yunus,Hostetter,75042324,yunus.hostetter@gmail.com,"['MATH', 'GYM', 'HISTORY']"
+Johnson,Graziano,96676085,johnson.graziano@gmail.com,"['GENERAL', 'SCIENCE']"
+Kris,Vidrine,27618512,kris.vidrine@gmail.com,[]
+Dirk,Delcastillo,64352949,dirk.delcastillo@gmail.com,[]
+Kei,Gideon,10815091,kei.gideon@gmail.com,"['SCIENCE', 'HISTORY', 'MATH', 'GYM', 'GENERAL']"
+Kennedy,Porter,59060092,kennedy.porter@gmail.com,['GYM']
+Lake,Marler,25399402,lake.marler@gmail.com,['HISTORY']
+Brendyn,Saito,52621242,brendyn.saito@gmail.com,['GYM']
+Lexani,Asuncion,56821176,lexani.asuncion@gmail.com,"['GENERAL', 'MATH', 'SCIENCE', 'GYM', 'HISTORY']"
+Sora,Hubbs,71583281,sora.hubbs@gmail.com,"['SCIENCE', 'HISTORY']"
+Hudsen,Favors,91469131,hudsen.favors@gmail.com,"['HISTORY', 'GENERAL', 'MATH', 'GYM']"
+Noura,Metcalfe,92370083,noura.metcalfe@gmail.com,[]
+Railyn,Hatten,93665737,railyn.hatten@gmail.com,"['GENERAL', 'SCIENCE']"
+Jeanette,Knudsen,19912372,jeanette.knudsen@gmail.com,"['MATH', 'GYM', 'HISTORY', 'SCIENCE']"
+Zariya,Sandberg,33894861,zariya.sandberg@gmail.com,"['GYM', 'HISTORY']"
+Karin,Laux,17966532,karin.laux@gmail.com,"['GENERAL', 'HISTORY', 'MATH', 'SCIENCE', 'GYM']"
+Fabiola,Carvalho,52579372,fabiola.carvalho@gmail.com,"['HISTORY', 'SCIENCE', 'MATH']"
+Nubia,Cool,66251171,nubia.cool@gmail.com,['GENERAL']
+Ainara,Purnell,91172189,ainara.purnell@gmail.com,"['HISTORY', 'GENERAL']"
+Jailene,Liddell,17343862,jailene.liddell@gmail.com,"['HISTORY', 'SCIENCE', 'GYM', 'MATH']"
+Erickson,Dunigan,30616203,erickson.dunigan@gmail.com,"['GENERAL', 'GYM', 'HISTORY', 'MATH']"
+Sriram,Sartain,51370235,sriram.sartain@gmail.com,"['MATH', 'GYM']"
+Captain,Oloughlin,55557988,captain.oloughlin@gmail.com,"['MATH', 'SCIENCE', 'GENERAL', 'HISTORY', 'GYM']"
+Jaci,Buford,32798991,jaci.buford@gmail.com,['GENERAL']
+Marion,Anguiano,52636614,marion.anguiano@gmail.com,"['MATH', 'HISTORY', 'SCIENCE', 'GENERAL']"
+Aloni,Flower,66735081,aloni.flower@gmail.com,"['HISTORY', 'GENERAL', 'MATH', 'SCIENCE', 'GYM']"
+Bayley,Messner,57212407,bayley.messner@gmail.com,"['SCIENCE', 'GENERAL', 'GYM']"
+Yareli,Root,75252013,yareli.root@gmail.com,"['MATH', 'GYM']"
+Zoelle,Ginsberg,43326146,zoelle.ginsberg@gmail.com,[]
+Leroy,Negron,81773881,leroy.negron@gmail.com,"['MATH', 'SCIENCE', 'GYM', 'GENERAL', 'HISTORY']"
+Anora,Blanks,85648716,anora.blanks@gmail.com,"['MATH', 'GYM', 'GENERAL', 'SCIENCE']"
+Aleina,Harr,44171488,aleina.harr@gmail.com,"['MATH', 'GENERAL']"
+Macyn,Bastian,25291093,macyn.bastian@gmail.com,"['MATH', 'SCIENCE', 'GENERAL', 'GYM']"
+Nawaf,Ostrom,77979100,nawaf.ostrom@gmail.com,[]
+Destini,Molnar,60716989,destini.molnar@gmail.com,"['GYM', 'HISTORY', 'GENERAL', 'SCIENCE', 'MATH']"
+Adama,Patty,78822728,adama.patty@gmail.com,"['MATH', 'GENERAL', 'HISTORY', 'GYM', 'SCIENCE']"
+Avree,Mcglone,97279660,avree.mcglone@gmail.com,"['GYM', 'HISTORY', 'MATH', 'SCIENCE', 'GENERAL']"
+Winter,Soileau,16036533,winter.soileau@gmail.com,"['HISTORY', 'GYM']"
+Jacelynn,Otis,87221274,jacelynn.otis@gmail.com,"['SCIENCE', 'GENERAL', 'MATH', 'GYM', 'HISTORY']"
+Stephanie,Mejia,48858734,stephanie.mejia@gmail.com,['MATH']
+Lael,Estevez,20360378,lael.estevez@gmail.com,"['GENERAL', 'HISTORY', 'GYM']"
+Kristel,Merz,61854131,kristel.merz@gmail.com,"['GYM', 'GENERAL', 'SCIENCE']"
+Enya,Behm,91755753,enya.behm@gmail.com,"['MATH', 'GENERAL', 'HISTORY', 'GYM', 'SCIENCE']"
+Savion,Aguayo,21780546,savion.aguayo@gmail.com,['MATH']
+Christie,Spinelli,83177713,christie.spinelli@gmail.com,['MATH']
+Kirin,Capobianco,76717878,kirin.capobianco@gmail.com,"['HISTORY', 'SCIENCE', 'GYM']"
+Izabell,Colton,96200029,izabell.colton@gmail.com,"['SCIENCE', 'HISTORY', 'GENERAL', 'MATH']"
+Lora,Tinoco,10077166,lora.tinoco@gmail.com,"['GENERAL', 'SCIENCE', 'GYM', 'MATH', 'HISTORY']"
+Terrell,Weller,75134051,terrell.weller@gmail.com,"['GYM', 'HISTORY', 'GENERAL', 'SCIENCE']"
+Zidan,Orange,24418603,zidan.orange@gmail.com,"['HISTORY', 'MATH']"
+Nevaeha,Olin,19320570,nevaeha.olin@gmail.com,['GYM']
+Anton,Mosher,16196791,anton.mosher@gmail.com,[]
+Adamari,Merkel,82269832,adamari.merkel@gmail.com,['HISTORY']
+Talia,Farrell,46552815,talia.farrell@gmail.com,"['GYM', 'HISTORY', 'MATH']"
+Kaylor,Deacon,53092709,kaylor.deacon@gmail.com,['GENERAL']
+Leliana,Drumm,16864280,leliana.drumm@gmail.com,"['HISTORY', 'GYM', 'MATH', 'GENERAL', 'SCIENCE']"
+Wesson,Arndt,47742200,wesson.arndt@gmail.com,"['GENERAL', 'SCIENCE', 'GYM', 'HISTORY', 'MATH']"
